@@ -10,8 +10,47 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ramyaDhanush/myara-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/ramyaDhanush/myara-theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#09131b",
+        "theme": "dark"
+    },
+    "icon": "images/logo.png",
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "myara Theme",
+        "myara",
+        "ramya",
+        "ramya dhanushkodi",
+        "dark theme",
+        "dark",
+        "green",
+        "red",
+        "vscode",
+        "vscode theme",
+        "best theme",
+        "elegant",
+        "elegant theme",
+        "pleasant theme",
+        "eye-friendly",
+        "useful theme",
+        "creative theme",
+        "awesome theme",
+        "myara-theme",
+        "myra-theme",
+        "m theme",
+        "theme",
+        "theme for vscode",
+        "dark",
+        "developer themes"
     ],
     "contributes": {
         "themes": [
